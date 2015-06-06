@@ -1,11 +1,8 @@
 # Changelog
----
 
 # Release version format
 
 `MajorRelease.MinorRelease.Bugfix`
-
----
 
 # ProjectName 1.1.0 (6 June 2015)
 

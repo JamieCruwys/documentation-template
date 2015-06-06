@@ -1,6 +1,4 @@
-
 # Release Process
----
 
 ## Setup
 
