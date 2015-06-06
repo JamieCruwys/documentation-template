@@ -1,6 +1,6 @@
 # documentation-template
 
-This project provides template documentation for new repositories.
+Template documentation for use with any repository. Simply copy and edit as needed.
 
 # Usage
 
