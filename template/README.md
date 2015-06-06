@@ -2,6 +2,14 @@
 
 `[Provide a short overview]`
 
+# Main Features
+
+1. `[Provide Main Feature 1]`
+2. `[Provide Main Feature 2]`
+3. `[Provide Main Feature 3]`
+
+An explanation of these features are available in more depth in [`MAINFEATURES.md`](MAINFEATURES.md)
+
 # Setup
 
 `[Provide information for setup]`
