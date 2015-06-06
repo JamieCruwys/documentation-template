@@ -8,5 +8,5 @@ A template documentation for use with any repository to document the project in 
 
 # What this repository doesn't offer #
 
-1. The `gitignore.git` file. You should choose the relevant gitignore file from [here](https://github.com/github/gitignore) and then make adaptions.
+1. The `gitignore.git` file. You should choose the relevant gitignore file from [here](https://github.com/github/gitignore) and then make adaptations.
 2. A licence. I don't know if you want a licence or which one you want. If you want one, then you'll need to [choose a licence](http://choosealicense.com/) and add it as `LICENCE`.
