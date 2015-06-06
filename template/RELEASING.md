@@ -1,12 +1,12 @@
 # Release Process
 
-## Setup
+# Setup
 
 1. `[Enter the first step for setup]`
 
 2. `[Enter the second step for setup]`
 
-## Release
+# Release
 
  1. `[Enter the first release step]`
 
